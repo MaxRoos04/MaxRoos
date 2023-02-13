@@ -1,3 +1,3 @@
 # Verry nice Verry good
 
-Never trust my code!
+"One wise man said never trust my code!"
