@@ -6,4 +6,8 @@
 
 I'm mostly interested in frontend development and UI/UX design!
 
-![alt text](https://cdn.discordapp.com/attachments/746464734664065175/1088154758717657179/JavaScript-Logo.png?width=300&height=300)
+[![github](https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png)][1]
+
+[1]: http://www.github.com/your_contact_info
+[2]: https://www.linkedin.com/in/your_contact_info
+[3]: https://www.facebook.com/your_contact_info
