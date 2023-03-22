@@ -7,4 +7,4 @@
 I'm mostly interested in frontend development and UI/UX design!
 
 ![alt text](https://js.devexpress.com/Content/Images/features/html5-css-javascript-logos.png)
-![alt text](https://www.google.fi/url?sa=i&url=https%3A%2F%2Fgithub.com%2Ftaylorbryant%2Fcrna-tailwind&psig=AOvVaw14_PDBCDUedLaSPjJ0nEM4&ust=1679593932969000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMjvoY-N8P0CFQAAAAAdAAAAABAI)
+![alt text](https://camo.githubusercontent.com/6433ae2acf0465f470f2ddb9b058d866ce2d4fc96b894954f882c2075f22981f/68747470733a2f2f696d6167652e6962622e636f2f695748724b6e2f72656163745f6e61746976655f7461696c77696e642e706e67)
