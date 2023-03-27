@@ -1,7 +1,7 @@
 # Everything you need to know about me!
 
 <h3>"One wise man said never trust my code!"</h3> </br>
-<h3>I'm mostly interested in frontend development!</h3>
+<h5>I'm mostly interested in frontend development!</h5>
 </br>
 
 
