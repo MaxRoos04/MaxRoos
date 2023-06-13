@@ -1,7 +1,7 @@
 # 
 
 <div align="center">
-  <img src="" alt="Header Image">
+  <img src="https://cdn.discordapp.com/attachments/746464734664065175/1118121755723190383/about.png" alt="Header Image">
 
   ## Hi there, I'm Max Roos 👋
 
