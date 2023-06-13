@@ -1,7 +1,7 @@
 # 
 
 <div align="center">
-  <img src="file:///C:/Users/maxro/OneDrive/Documents/GitHub/Max-Portfolio/src/assets/about.png" alt="Header Image">
+  <img src="" alt="Header Image">
 
   ## Hi there, I'm Max Roos 👋
 
