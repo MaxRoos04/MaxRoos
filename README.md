@@ -11,21 +11,21 @@
 
   ### 🚀 What I'm Working On
 
-  - 🌱 Currently learning Tailwind.css
-  - 💻 Building awesome web experiences
-  - ⚡️ Improving my skills every day
+    🌱 Currently learning Tailwind.css
+    💻 Building awesome web experiences
+    ⚡️ Improving my skills every day
 
   ### 💼 Skills
 
-  - **Languages:** JavaScript, HTML5, CSS3
-  - **Frameworks/Libraries:** React.js, Tailwind CSS
+    **Languages:** JavaScript, HTML5, CSS3
+    **Frameworks/Libraries:** React.js, Tailwind CSS
 
   ### 🌐 Connect with Me
 
   Let's connect and collaborate! Find me on:
   
-  - [LinkedIn](https://www.linkedin.com/in/max-roos-010a951b4/)
-  - [Instagram](https://www.instagram.com/maxroos_/)
+    [LinkedIn](https://www.linkedin.com/in/max-roos-010a951b4/)
+    [Instagram](https://www.instagram.com/maxroos_/)
 
   ![](https://komarev.com/ghpvc/?username=MaxRoos04&color=green)
 
