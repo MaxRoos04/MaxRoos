@@ -27,7 +27,7 @@
   - [LinkedIn](https://www.linkedin.com/in/max-roos-010a951b4/)
   - [Instagram](https://www.instagram.com/maxroos_/)
 
-  ![Profile Views](https://visitor-badge.glitch.me/badge?page_id=MaxRoos04.MaxRoos04)
+  ![](https://komarev.com/ghpvc/?username=MaxRoos04)
 
 </div>
 
