@@ -1,10 +1,36 @@
 # 
 
-<h5>I'm mostly interested in frontend development!</h5>
-</br>
+<div align="center">
+  <img src="header.png" alt="Header Image">
 
+  ## Hi there, I'm Max Roos 👋
 
-![alt text](https://i-viaplay-com.akamaized.net/viaplay-prod/936/572/1472747571-2cdeb6b59fd6011b7a4813d4af6bd3519a995b1e.jpg?width=1600&height=900)
+  <p>Welcome to my GitHub profile! I'm a passionate frontend developer with skills in JavaScript, HTML, CSS, React.js, and Tailwind CSS.</p>
+
+  <img src="code.gif" alt="Code GIF">
+
+  ### 🚀 What I'm Working On
+
+  - 🌱 Currently learning Tailwind.css
+  - 💻 Building awesome web experiences
+  - ⚡️ Improving my skills every day
+
+  ### 💼 Skills
+
+  - **Languages:** JavaScript, HTML5, CSS3
+  - **Frameworks/Libraries:** React.js, Tailwind CSS
+
+  ### 🌐 Connect with Me
+
+  Let's connect and collaborate! Find me on:
+  
+  - [LinkedIn](https://www.linkedin.com/in/max-roos-010a951b4/)
+  - [Instagram](https://www.instagram.com/maxroos_/)
+
+  ![Profile Views](https://visitor-badge.glitch.me/badge?page_id=MaxRoos04.MaxRoos04)
+
+</div>
+
 </br>
 </br>
 <img src="https://pluralsight2.imgix.net/paths/images/javascript-542e10ea6e.png" width="200" height="200" /> 
